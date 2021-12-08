@@ -78,7 +78,7 @@
 
 ## 📌 운영체제
 
-- 운영체제란?
+- [운영체제란?](https://pointy-rubidium-c66.notion.site/19ff02dcf83b4bde978a66dd4ad67b2d)
 - 프로세스 vs 스레드
 - 프로세스 주소 공간
 - 인터럽트(Interrupt)
@@ -126,7 +126,7 @@
 ## 📌 Algorithm
 
 - 거품 정렬(Bubble Sort)
-- 선택 정렬(Selection Sort)
+- [선택 정렬(Selection Sort)](https://pointy-rubidium-c66.notion.site/Selection-Sort-2be3afcfe25d40e09f1b36ed7b083089)
 - 삽입 정렬(Insertion Sort)
 - 퀵 정렬(Quick Sort)
 - 합병 정렬(Merge Sort)
