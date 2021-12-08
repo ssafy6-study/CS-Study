@@ -65,7 +65,7 @@
 
 ## 📌 네트워크
 
-- OSI 7 계층
+- [OSI 7 계층](https://branched-prawn-1fd.notion.site/OSI-7-034914d23d334103b06076d09bf2077a)
 - TCP 3 way handshake & 4 way handshake
 - TCP/IP 흐름제어 & 혼잡제어
 - TCPvsUDP
