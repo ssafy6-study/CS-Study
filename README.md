@@ -125,7 +125,7 @@
 
 ## 📌 Algorithm
 
-- 거품 정렬(Bubble Sort)
+- [거품 정렬(Bubble Sort)](https://branched-prawn-1fd.notion.site/Bubble-Sort-4ddf5acbc1eb4fdfb8e7629cfda2eb94)
 - [선택 정렬(Selection Sort)](https://pointy-rubidium-c66.notion.site/Selection-Sort-2be3afcfe25d40e09f1b36ed7b083089)
 - 삽입 정렬(Insertion Sort)
 - 퀵 정렬(Quick Sort)
