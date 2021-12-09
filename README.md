@@ -98,7 +98,7 @@
 
 ## 📌 데이터베이스
 
-- 키(Key) 정리
+- [키(Key) 정리](https://tropical-couch-e39.notion.site/Key-191008222e7f4df79d8b0a212dcabc41)
 - SQL - JOIN
 - SQL Injection
 - SQL vs NoSQL
@@ -176,7 +176,7 @@
 
 ## 📌 Web
 
-- HTTP Method
+- [HTTP Method](https://tropical-couch-e39.notion.site/Array-ArrayList-LinkedList-07a351b8d0a44e6fb91ff75fc05eb8c9)
 - RESTFul API 란?
 - 브라우저의 작동 원리
 - DOM(Document Object Model)
