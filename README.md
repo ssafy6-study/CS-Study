@@ -53,7 +53,7 @@
 
 ## 📌 자료구조
 
-- Array & ArrayList & LinkedList
+- [Array & ArrayList & LinkedList](https://tropical-couch-e39.notion.site/Array-ArrayList-LinkedList-07a351b8d0a44e6fb91ff75fc05eb8c9)
 - 스택(Stack) & 큐(Queue)
 - 힙(Heap)
 - 이진탐색트리(Binary Search Tree)
@@ -176,7 +176,7 @@
 
 ## 📌 Web
 
-- [HTTP Method](https://tropical-couch-e39.notion.site/Array-ArrayList-LinkedList-07a351b8d0a44e6fb91ff75fc05eb8c9)
+- HTTP Method
 - RESTFul API 란?
 - 브라우저의 작동 원리
 - DOM(Document Object Model)
