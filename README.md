@@ -26,7 +26,7 @@
 - 함수형 프로그래밍Ⅱ
 - 데브옵스(DevOps)
 - 서드 파티(3rd party)란?
-- Git 과 GitHub 에 대해서
+- [Git 과 GitHub 에 대해서](https://pointy-rubidium-c66.notion.site/Git-GitHub-5fb1ad81dc2841a1abcdf731637323be)
 - 정규식
 - Generic
 - final
@@ -49,7 +49,7 @@
 
 - [OSI 7 계층](https://branched-prawn-1fd.notion.site/OSI-7-034914d23d334103b06076d09bf2077a)
 - TCP 3 way handshake & 4 way handshake
-- TCP/IP 흐름제어 & 혼잡제어
+- [TCP/IP 흐름제어 & 혼잡제어](https://pointy-rubidium-c66.notion.site/TCP-IP-8dfda4eddb784ec5a8781a6e9f601ef1)
 - TCPvsUDP
 - 대칭키 & 공개키
 - HTTP & HTTPS
