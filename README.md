@@ -48,7 +48,7 @@
 ## 📌 네트워크
 
 - [OSI 7 계층](https://yejinny.notion.site/OSI-7-034914d23d334103b06076d09bf2077a)
-- TCP 3 way handshake & 4 way handshake
+- [TCP 3 way handshake & 4 way handshake](https://tropical-couch-e39.notion.site/TCP-3-way-handshake-4-way-handshake-43f5027db2d84128923f60696eac8136)
 - [TCP/IP 흐름제어 & 혼잡제어](https://pointy-rubidium-c66.notion.site/TCP-IP-8dfda4eddb784ec5a8781a6e9f601ef1)
 - TCPvsUDP
 - 대칭키 & 공개키
@@ -158,7 +158,7 @@
 
 ## 📌 Web
 
-- HTTP Method
+- [HTTP Method](https://tropical-couch-e39.notion.site/HTTP-Method-78a17553dbf24e78a8b19458c66101c6)
 - RESTFul API 란?
 - 브라우저의 작동 원리
 - DOM(Document Object Model)
