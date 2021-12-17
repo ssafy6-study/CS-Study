@@ -36,7 +36,7 @@
 ## 📌 자료구조
 
 - [Array & ArrayList & LinkedList](https://tropical-couch-e39.notion.site/Array-ArrayList-LinkedList-07a351b8d0a44e6fb91ff75fc05eb8c9)
-- 스택(Stack) & 큐(Queue)
+- [스택(Stack)](https://yejinny.notion.site/Stack-6dd91c16b92743ce92d8f41e8b937b92) & [큐(Queue)](https://yejinny.notion.site/Queue-010ff32f439d45539602f038d9aff102)
 - 힙(Heap)
 - 이진탐색트리(Binary Search Tree)
 - 해시(Hash)
@@ -47,7 +47,7 @@
 
 ## 📌 네트워크
 
-- [OSI 7 계층](https://branched-prawn-1fd.notion.site/OSI-7-034914d23d334103b06076d09bf2077a)
+- [OSI 7 계층](https://yejinny.notion.site/OSI-7-034914d23d334103b06076d09bf2077a)
 - TCP 3 way handshake & 4 way handshake
 - [TCP/IP 흐름제어 & 혼잡제어](https://pointy-rubidium-c66.notion.site/TCP-IP-8dfda4eddb784ec5a8781a6e9f601ef1)
 - TCPvsUDP
@@ -81,7 +81,7 @@
 ## 📌 데이터베이스
 
 - [키(Key) 정리](https://tropical-couch-e39.notion.site/Key-191008222e7f4df79d8b0a212dcabc41)
-- SQL - JOIN
+- [SQL - JOIN](https://yejinny.notion.site/SQL-JOIN-251a5c0fb12f453c922a6a572a714b20)
 - SQL Injection
 - SQL vs NoSQL
 - 이상(Anomaly)
@@ -107,7 +107,7 @@
 
 ## 📌 Algorithm
 
-- [거품 정렬(Bubble Sort)](https://branched-prawn-1fd.notion.site/Bubble-Sort-4ddf5acbc1eb4fdfb8e7629cfda2eb94)
+- [거품 정렬(Bubble Sort)](https://yejinny.notion.site/Bubble-Sort-4ddf5acbc1eb4fdfb8e7629cfda2eb94)
 - [선택 정렬(Selection Sort)](https://pointy-rubidium-c66.notion.site/Selection-Sort-2be3afcfe25d40e09f1b36ed7b083089)
 - 삽입 정렬(Insertion Sort)
 - 퀵 정렬(Quick Sort)
