@@ -95,7 +95,7 @@
 
 ## 📌 Design Pattern
 
-- 디자인패턴 개요(Overview)
+- [디자인패턴 개요(Overview)](https://yejinny.notion.site/Overview-76f34dd8437f43faa797a8a8e5f4a64d)
 - 어댑터 패턴
 - 싱글톤 패턴
 - 탬플릿 메소드 패턴
