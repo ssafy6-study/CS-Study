@@ -129,7 +129,7 @@
 ## 📌 Language
 
 - Java
-  - Java 컴파일 과정
+  - [Java 컴파일 과정](https://pointy-rubidium-c66.notion.site/Java-a003409988f74d26aa502e50dee94b44)
   - 자바 가상 머신(Java Virtual Machine)
   - Garbage Collection
   - Annotation
