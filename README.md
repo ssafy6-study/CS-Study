@@ -168,7 +168,7 @@
 - Reflow&Repaint
 - 크로스 브라우징
 - 웹 성능 최적화
-- 서버 사이드 렌더링 vs 클라이언트 사이드 렌더링
+- [서버 사이드 렌더링 vs 클라이언트 사이드 렌더링](https://pointy-rubidium-c66.notion.site/Web-Rendering-eba789f6034f4c4b8dda90a701e6e830)
 - CSS Methodology
 - Normalize.css vs Reset.css
 - 웹 컴포넌트
