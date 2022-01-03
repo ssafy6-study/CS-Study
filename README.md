@@ -70,7 +70,7 @@
 - CPU 스케줄링
 - 데드락(DeadLock)
 - Race Condition
-- 세마포어(Semaphore) & 뮤텍스(Mutex)
+- [세마포어(Semaphore) & 뮤텍스(Mutex)](https://pointy-rubidium-c66.notion.site/Semaphore-Mutex-9c42db8ac87e4ec59fbc22a5880c117c)
 - 페이징 & 세그먼테이션
 - 페이지 교체 알고리즘
 - 메모리(Memory)
