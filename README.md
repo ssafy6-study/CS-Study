@@ -19,7 +19,7 @@
 ## 📌 개발상식
 
 - 클린코드 & 리팩토링 & 시큐어코딩 
-- 애자일(Agile) 정리
+- [애자일(Agile) 정리](https://tropical-couch-e39.notion.site/Agile-13e92206073341d2b1c0f45428f033d6)
 - TDD(Test Driven Development)
 - 객체 지향 프로그래밍
 - 함수형 프로그래밍Ⅰ
@@ -51,7 +51,7 @@
 - [TCP 3 way handshake & 4 way handshake](https://tropical-couch-e39.notion.site/TCP-3-way-handshake-4-way-handshake-43f5027db2d84128923f60696eac8136)
 - [TCP/IP 흐름제어 & 혼잡제어](https://pointy-rubidium-c66.notion.site/TCP-IP-8dfda4eddb784ec5a8781a6e9f601ef1)
 - TCPvsUDP
-- 대칭키 & 공개키
+- [대칭키 & 공개키](https://tropical-couch-e39.notion.site/125d6c7d8cd546f185becfee32db8e3e)
 - HTTP & HTTPS
 - 로드 밸런싱(Load Balancing)
 - Blocking & Non-Blocking I/O
@@ -71,7 +71,7 @@
 - 데드락(DeadLock)
 - Race Condition
 - [세마포어(Semaphore) & 뮤텍스(Mutex)](https://pointy-rubidium-c66.notion.site/Semaphore-Mutex-9c42db8ac87e4ec59fbc22a5880c117c)
-- 페이징 & 세그먼테이션
+- [페이징 & 세그먼테이션](https://tropical-couch-e39.notion.site/125d6c7d8cd546f185becfee32db8e3e)
 - 페이지 교체 알고리즘
 - 메모리(Memory)
 - 파일 시스템
