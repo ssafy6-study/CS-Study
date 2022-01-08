@@ -26,7 +26,7 @@
 - 함수형 프로그래밍Ⅱ
 - 데브옵스(DevOps)
 - 서드 파티(3rd party)란?
-- [Git 과 GitHub 에 대해서](https://pointy-rubidium-c66.notion.site/Git-GitHub-5fb1ad81dc2841a1abcdf731637323be)
+- [Git 과 GitHub 에 대해서](https://hoonycode.notion.site/Git-GitHub-5fb1ad81dc2841a1abcdf731637323be)
 - 정규식
 - Generic
 - final
@@ -67,7 +67,7 @@
 - 시스템 콜(System Call)
 - PCB와 Context Switching
 - IPC(Inter Process Communication)
-- [CPU 스케줄링](https://www.notion.so/hoonycode/CPU-5c3a61ca8c8b4b2bb79e9f7a5d312549)
+- [CPU 스케줄링](https://hoonycode.notion.site/CPU-5c3a61ca8c8b4b2bb79e9f7a5d312549)
 - 데드락(DeadLock)
 - Race Condition
 - [세마포어(Semaphore) & 뮤텍스(Mutex)](https://pointy-rubidium-c66.notion.site/Semaphore-Mutex-9c42db8ac87e4ec59fbc22a5880c117c)
