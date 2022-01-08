@@ -70,7 +70,7 @@
 - [CPU 스케줄링](https://www.notion.so/hoonycode/CPU-5c3a61ca8c8b4b2bb79e9f7a5d312549)
 - 데드락(DeadLock)
 - Race Condition
-- [세마포어(Semaphore) & 뮤텍스(Mutex)](https://pointy-rubidium-c66.notion.site/Semaphore-Mutex-9c42db8ac87e4ec59fbc22a5880c117c)
+- [세마포어(Semaphore) & 뮤텍스(Mutex)](https://hoonycode.notion.site/Semaphore-Mutex-9c42db8ac87e4ec59fbc22a5880c117c)
 - [페이징](https://tropical-couch-e39.notion.site/490c043f7de64435ae207fb9520393ac) & [세그먼테이션]()
 - 페이지 교체 알고리즘
 - 메모리(Memory)
