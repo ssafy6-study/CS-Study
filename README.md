@@ -160,7 +160,7 @@
 
 - [HTTP Method](https://tropical-couch-e39.notion.site/HTTP-Method-78a17553dbf24e78a8b19458c66101c6)
 - [RESTFul API 란?](https://yejinny.notion.site/RESTFul-API-2f64145c45de449a92a202943e6da201)
-- 브라우저의 작동 원리
+- [브라우저의 작동 원리](https://hoonycode.notion.site/ced67cdeaed24cc9ac62a6b8319edff3)
 - DOM(Document Object Model)
   - Event Bubbling and Capturing
   - Event delegation
