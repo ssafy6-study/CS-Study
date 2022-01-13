@@ -123,7 +123,7 @@
 - DFS & BFS
 - 최장 증가 수열(LIS)
 - 최소 공통 조상(LCA)
-- 동적 계획법(Dynamic Programming)
+- [동적 계획법(Dynamic Programming)](https://yejinny.notion.site/Dynamic-Programming-0e0e2452abb94e869fa2ec63772ab697)
 
 
 
