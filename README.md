@@ -97,7 +97,7 @@
 ## 📌 Design Pattern
 
 - [디자인패턴 개요(Overview)](https://yejinny.notion.site/Overview-76f34dd8437f43faa797a8a8e5f4a64d)
-- 어댑터 패턴
+- [어댑터 패턴](https://tropical-couch-e39.notion.site/b6ed8b8c050a44eba4e5596f07552b1b)
 - 싱글톤 패턴
 - 탬플릿 메소드 패턴
 - 팩토리 메소드 패턴
@@ -121,7 +121,7 @@
 - 세그먼트 트리
 - 해시(Hash)
 - DFS & BFS
-- 최장 증가 수열(LIS)
+- [최장 증가 수열(LIS)](https://tropical-couch-e39.notion.site/LIS-9f0e1a3404e5419fb105b584ea1359b5)
 - 최소 공통 조상(LCA)
 - [동적 계획법(Dynamic Programming)](https://yejinny.notion.site/Dynamic-Programming-0e0e2452abb94e869fa2ec63772ab697)
 
