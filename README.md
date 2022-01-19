@@ -116,7 +116,7 @@
 - 힙 정렬(Heap Sort)
 - 기수 정렬(Radix Sort)
 - 계수 정렬(Count Sort)
-- 비트마스크(BitMask)
+- [비트마스크(BitMask)](https://hoonycode.notion.site/d63a2a42580a44c0994e8373f0ca5dcd)
 - 이분 탐색(Binary Search)
 - 세그먼트 트리
 - 해시(Hash)
