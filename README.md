@@ -133,7 +133,7 @@
   - [Java 컴파일 과정](https://pointy-rubidium-c66.notion.site/Java-a003409988f74d26aa502e50dee94b44)
   - [자바 가상 머신(Java Virtual Machine)](https://yejinny.notion.site/Java-Virtual-Machine-557488f5482c4e58bf437dae834e0a42)
   - Garbage Collection
-  - Annotation
+  - [Annotation](https://tropical-couch-e39.notion.site/Annotation-f1cb98f793564b3fb4c53e0e3f58eb86)
   - Call by Value vs Call by Reference
   - Primitive type vs Reference type
   - String & StringBuffer & StringBuilder
