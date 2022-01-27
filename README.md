@@ -176,7 +176,7 @@
 - 쿠키(Cookie) & 세션(Session)
 - 웹 서버와 WAS의 차이점
 - OAuth
-- JWT(JSON Web Token)
+- [JWT(JSON Web Token)](https://hoonycode.notion.site/JWT-Java-Web-Token-25e1fe8f2466467195a17c7676fae87c)
 - Authentication & Authorization
 - 로그 레벨
 - UI와 UX
