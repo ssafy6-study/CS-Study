@@ -12,6 +12,7 @@
 | HoonyCode |
 |  k03147   |
 | yejin9819 |
+| developerDaeun |
 
 # 학습 주제
 학습주제는 [gyoogle](https://github.com/gyoogle/tech-interview-for-developer)을 참고했습니다.
