@@ -121,7 +121,7 @@
 - 이분 탐색(Binary Search)
 - 세그먼트 트리
 - 해시(Hash)
-- DFS & BFS
+- [DFS & BFS](https://www.notion.so/hoonycode/DFS-BFS-9e474a244b714faea8c00171d45a2490)
 - [최장 증가 수열(LIS)](https://tropical-couch-e39.notion.site/LIS-9f0e1a3404e5419fb105b584ea1359b5)
 - 최소 공통 조상(LCA)
 - [동적 계획법(Dynamic Programming)](https://yejinny.notion.site/Dynamic-Programming-0e0e2452abb94e869fa2ec63772ab697)
