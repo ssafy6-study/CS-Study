@@ -99,7 +99,7 @@
 
 - [디자인패턴 개요(Overview)](https://yejinny.notion.site/Overview-76f34dd8437f43faa797a8a8e5f4a64d)
 - [어댑터 패턴](https://tropical-couch-e39.notion.site/b6ed8b8c050a44eba4e5596f07552b1b)
-- 싱글톤 패턴
+- [싱글톤 패턴](https://hoonycode.notion.site/169f3318b81c4af0a6e6eebd0c2dd07a)
 - 탬플릿 메소드 패턴
 - 팩토리 메소드 패턴
 - 옵저버 패턴
