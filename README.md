@@ -69,7 +69,7 @@
 - PCB와 Context Switching
 - IPC(Inter Process Communication)
 - [CPU 스케줄링](https://hoonycode.notion.site/CPU-5c3a61ca8c8b4b2bb79e9f7a5d312549)
-- 데드락(DeadLock)
+- [데드락(DeadLock)](https://tropical-couch-e39.notion.site/deadlock-8f332ce99e044663ad1c6ce4b7d4e0a6)
 - Race Condition
 - [세마포어(Semaphore) & 뮤텍스(Mutex)](https://hoonycode.notion.site/Semaphore-Mutex-9c42db8ac87e4ec59fbc22a5880c117c)
 - 연속 메모리 할당
