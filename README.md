@@ -115,7 +115,7 @@
 - 퀵 정렬(Quick Sort)
 - [합병 정렬(Merge Sort)](https://tropical-couch-e39.notion.site/Merge-Sort-423767e311314c608cf985992d6f1c3f)
 - 힙 정렬(Heap Sort)
-- 기수 정렬(Radix Sort)
+- [기수 정렬(Radix Sort)](https://hoonycode.notion.site/2c9c313a8d064f6c87895617748c9231)
 - 계수 정렬(Count Sort)
 - [비트마스크(BitMask)](https://hoonycode.notion.site/d63a2a42580a44c0994e8373f0ca5dcd)
 - 이분 탐색(Binary Search)
