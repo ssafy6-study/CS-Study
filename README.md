@@ -22,7 +22,7 @@
 - 클린코드 & 리팩토링 & 시큐어코딩 
 - [애자일(Agile) 정리](https://tropical-couch-e39.notion.site/Agile-13e92206073341d2b1c0f45428f033d6)
 - [TDD(Test Driven Development)](https://yejinny.notion.site/TDD-Test-Driven-Development-43e1b031300f43ad9dea8ed15acf6c91)
-- 객체 지향 프로그래밍
+- [객체 지향 프로그래밍](https://hoonycode.notion.site/38e3cbbc914947408a427288bcee392a)
 - 함수형 프로그래밍Ⅰ
 - 함수형 프로그래밍Ⅱ
 - 데브옵스(DevOps)
