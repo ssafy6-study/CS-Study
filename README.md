@@ -73,7 +73,7 @@
 - [세마포어(Semaphore) & 뮤텍스(Mutex)](https://hoonycode.notion.site/Semaphore-Mutex-9c42db8ac87e4ec59fbc22a5880c117c)
 - 연속 메모리 할당
 - [페이징](https://tropical-couch-e39.notion.site/490c043f7de64435ae207fb9520393ac) & [세그먼테이션](https://tropical-couch-e39.notion.site/74c7e6a6af084f2c80a3cb00bf7ca068)
-- 페이지 교체 알고리즘
+- [페이지 교체 알고리즘](https://www.notion.so/hoonycode/ce1fbc2ec6c940d3be995725ff4a9d60)
 - 메모리(Memory)
 - 파일 시스템
 
