@@ -24,7 +24,7 @@
 - [TDD(Test Driven Development)](https://yejinny.notion.site/TDD-Test-Driven-Development-43e1b031300f43ad9dea8ed15acf6c91)
 - [객체 지향 프로그래밍](https://hoonycode.notion.site/38e3cbbc914947408a427288bcee392a)
 - [함수형 프로그래밍](https://tropical-couch-e39.notion.site/be0dc8e2a4c3469d9574a0a9c6b82bf6)
-- 데브옵스(DevOps)
+- [데브옵스(DevOps)](./CommonSense/DevOps란.md)
 - 서드 파티(3rd party)란?
 - [Git 과 GitHub 에 대해서](https://hoonycode.notion.site/Git-GitHub-5fb1ad81dc2841a1abcdf731637323be)
 - 정규식
