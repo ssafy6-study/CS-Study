@@ -152,7 +152,7 @@
   - JS Scope
   - Closure
   - this
-  - Promise
+  - [Promise](https://tropical-couch-e39.notion.site/Promise-5f4787a1c83e4dd0871d4cb146caa7b4)
   - ECMAScript6(=ES6)
 
 
