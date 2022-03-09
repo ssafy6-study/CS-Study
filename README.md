@@ -84,7 +84,7 @@
 - [키(Key) 정리](https://tropical-couch-e39.notion.site/Key-191008222e7f4df79d8b0a212dcabc41)
 - [SQL - JOIN](https://yejinny.notion.site/SQL-JOIN-251a5c0fb12f453c922a6a572a714b20)
 - SQL Injection
-- SQL vs NoSQL
+- [SQL vs NoSQL](https://www.notion.so/hoonycode/SQL-vs-NoSQL-c76d76035cae4485baaf57f64619ea26)
 - 이상(Anomaly)
 - 정규화
 - 인덱스(INDEX)
