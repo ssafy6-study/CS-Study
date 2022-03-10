@@ -63,7 +63,7 @@
 - [운영체제란?](https://pointy-rubidium-c66.notion.site/19ff02dcf83b4bde978a66dd4ad67b2d)
 - [프로세스 vs 스레드](https://yejinny.notion.site/vs-068fb497c38a4d27b7935f450feb7bcd)
 - 프로세스 주소 공간
-- 인터럽트(Interrupt)
+- [인터럽트(Interrupt)](https://hoonycode.notion.site/25bcca763df74da18103274ebe0fcc0b)
 - 시스템 콜(System Call)
 - PCB와 Context Switching
 - IPC(Inter Process Communication)
