@@ -165,7 +165,7 @@
 - DOM(Document Object Model)
   - Event Bubbling and Capturing
   - Event delegation
-- CSS Selector 우선순위
+- [CSS Selector 우선순위](https://tropical-couch-e39.notion.site/CSS-Selector-435cda7d39c340f18c913cfa2d1e21a9)
 - Reflow&Repaint
 - 크로스 브라우징
 - 웹 성능 최적화
