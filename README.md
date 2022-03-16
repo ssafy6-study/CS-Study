@@ -118,7 +118,7 @@
 - 계수 정렬(Count Sort)
 - [비트마스크(BitMask)](https://hoonycode.notion.site/d63a2a42580a44c0994e8373f0ca5dcd)
 - 이분 탐색(Binary Search)
-- 세그먼트 트리
+- [세그먼트 트리](https://hoonycode.notion.site/23ff0e644e6e464cae26eb74412fd91f)
 - 해시(Hash)
 - [DFS & BFS](https://www.notion.so/hoonycode/DFS-BFS-9e474a244b714faea8c00171d45a2490)
 - [최장 증가 수열(LIS)](https://tropical-couch-e39.notion.site/LIS-9f0e1a3404e5419fb105b584ea1359b5)
