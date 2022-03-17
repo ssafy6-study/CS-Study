@@ -115,7 +115,7 @@
 - [합병 정렬(Merge Sort)](https://tropical-couch-e39.notion.site/Merge-Sort-423767e311314c608cf985992d6f1c3f)
 - [힙 정렬(Heap Sort)](https://tropical-couch-e39.notion.site/Heap-Sort-68f35d53a410405a9944d9e357a19264)
 - [기수 정렬(Radix Sort)](https://hoonycode.notion.site/2c9c313a8d064f6c87895617748c9231)
-- 계수 정렬(Count Sort)
+- [계수 정렬(Count Sort)](https://tropical-couch-e39.notion.site/Counting-Sort-4d301c40222f447083cb7a43bf6ba4fc)
 - [비트마스크(BitMask)](https://hoonycode.notion.site/d63a2a42580a44c0994e8373f0ca5dcd)
 - [이분 탐색(Binary Search)](https://www.notion.so/hoonycode/3162990473a4472484feffb8ea84de9a)
 - [세그먼트 트리](https://hoonycode.notion.site/23ff0e644e6e464cae26eb74412fd91f)
