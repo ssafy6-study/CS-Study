@@ -117,7 +117,7 @@
 - [기수 정렬(Radix Sort)](https://hoonycode.notion.site/2c9c313a8d064f6c87895617748c9231)
 - 계수 정렬(Count Sort)
 - [비트마스크(BitMask)](https://hoonycode.notion.site/d63a2a42580a44c0994e8373f0ca5dcd)
-- 이분 탐색(Binary Search)
+- [이분 탐색(Binary Search)](https://www.notion.so/hoonycode/3162990473a4472484feffb8ea84de9a)
 - [세그먼트 트리](https://hoonycode.notion.site/23ff0e644e6e464cae26eb74412fd91f)
 - 해시(Hash)
 - [DFS & BFS](https://www.notion.so/hoonycode/DFS-BFS-9e474a244b714faea8c00171d45a2490)
