@@ -139,7 +139,7 @@
   - String & StringBuffer & StringBuilder
   - Overriding vs Overloading
   - Thread 활용
-  - Casting(업캐스팅 & 다운캐스팅)
+  - [Casting(업캐스팅 & 다운캐스팅)](https://tropical-couch-e39.notion.site/Casting-ea63a0e8e5504be69fba11c0ac94f715)
   - Promotion & Casting
   - 고유 락(Intrinsic Lock)
   - Error & Exception
