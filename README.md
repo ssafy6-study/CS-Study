@@ -135,7 +135,7 @@
   - Garbage Collection
   - [Annotation](https://tropical-couch-e39.notion.site/Annotation-f1cb98f793564b3fb4c53e0e3f58eb86)
   - Call by Value vs Call by Reference
-  - Primitive type vs Reference type
+  - [Primitive type vs Reference type](https://tropical-couch-e39.notion.site/Primitive-type-vs-Reference-type-fc3ce8e9bb1f40d5827c379142aebd47)
   - [String & StringBuffer & StringBuilder](https://velog.io/@hoony-code/Java-String-StringBuffer-StringBuilder-%EC%B0%A8%EC%9D%B4-%EB%B0%8F-%EC%9E%A5%EB%8B%A8%EC%A0%90)
   - Overriding vs Overloading
   - Thread 활용
