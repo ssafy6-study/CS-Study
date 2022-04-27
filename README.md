@@ -138,7 +138,7 @@
   - [Primitive type vs Reference type](https://tropical-couch-e39.notion.site/Primitive-type-vs-Reference-type-fc3ce8e9bb1f40d5827c379142aebd47)
   - [String & StringBuffer & StringBuilder](https://velog.io/@hoony-code/Java-String-StringBuffer-StringBuilder-%EC%B0%A8%EC%9D%B4-%EB%B0%8F-%EC%9E%A5%EB%8B%A8%EC%A0%90)
   - Overriding vs Overloading
-  - Thread 활용
+  - [Thread 활용](https://www.notion.so/hoonycode/Thread-354607a1517c4159af326065e5ed28a7)
   - [Casting(업캐스팅 & 다운캐스팅)](https://tropical-couch-e39.notion.site/Casting-ea63a0e8e5504be69fba11c0ac94f715)
   - Promotion & Casting
   - 고유 락(Intrinsic Lock)
