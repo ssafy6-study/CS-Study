@@ -90,7 +90,7 @@
 - 인덱스(INDEX)
 - [트랜잭션(Transaction)](https://hoonycode.notion.site/46384e6db6274b9c83919cd044302514)
 - 트랜잭션 격리 수준(Transaction Isolation Level)
-- 레디스(Redis)
+- [레디스(Redis)](https://www.notion.so/hoonycode/Redis-81f3f68deb7a4395830eff869babdca9)
 
 
 
