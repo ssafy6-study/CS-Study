@@ -39,7 +39,7 @@
 - [스택(Stack)](https://yejinny.notion.site/Stack-6dd91c16b92743ce92d8f41e8b937b92) & [큐(Queue)](https://yejinny.notion.site/Queue-010ff32f439d45539602f038d9aff102)
 - 힙(Heap)
 - 이진탐색트리(Binary Search Tree)
-- 해시(Hash)
+- [해시(Hash)](https://tropical-couch-e39.notion.site/Hash-fbef2af165d8416bab0d7a588fc915d8)
 - 트라이(Trie)
 - B-Tree & B+Tree
 
