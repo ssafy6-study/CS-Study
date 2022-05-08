@@ -52,7 +52,7 @@
 - [TCP/IP 흐름제어 & 혼잡제어](https://pointy-rubidium-c66.notion.site/TCP-IP-8dfda4eddb784ec5a8781a6e9f601ef1)
 - TCPvsUDP
 - [대칭키 & 공개키](https://tropical-couch-e39.notion.site/125d6c7d8cd546f185becfee32db8e3e)
-- HTTP & HTTPS
+- [HTTP & HTTPS](https://hoonycode.notion.site/HTTP-VS-HTTPS-37987fb75fd14ef6a8fa445176d40942)
 - 로드 밸런싱(Load Balancing)
 - Blocking & Non-Blocking I/O
 
