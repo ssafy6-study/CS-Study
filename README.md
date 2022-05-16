@@ -50,7 +50,7 @@
 - [OSI 7 계층](https://yejinny.notion.site/OSI-7-034914d23d334103b06076d09bf2077a)
 - [TCP 3 way handshake & 4 way handshake](https://tropical-couch-e39.notion.site/TCP-3-way-handshake-4-way-handshake-43f5027db2d84128923f60696eac8136)
 - [TCP/IP 흐름제어 & 혼잡제어](https://pointy-rubidium-c66.notion.site/TCP-IP-8dfda4eddb784ec5a8781a6e9f601ef1)
-- TCPvsUDP
+- [TCPvsUDP](https://tropical-couch-e39.notion.site/TCP-vs-UDP-41fcab1b6d444fa9bd61a528b4925756)
 - [대칭키 & 공개키](https://tropical-couch-e39.notion.site/125d6c7d8cd546f185becfee32db8e3e)
 - [HTTP & HTTPS](https://hoonycode.notion.site/HTTP-VS-HTTPS-37987fb75fd14ef6a8fa445176d40942)
 - 로드 밸런싱(Load Balancing)
